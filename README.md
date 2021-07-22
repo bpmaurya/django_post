@@ -1,3 +1,3 @@
 # Post have  foreingKey With User
-- ![#user = models.ForeignKey(User, on_delete=models.CASCADE)] `#f03c15`
+- ![#f03c15]user = models.ForeignKey(User, on_delete=models.CASCADE) `#f03c15`
 # Product Is publicly
